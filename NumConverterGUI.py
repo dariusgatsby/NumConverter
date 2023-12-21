@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-from convert_func import convert
+from convert_function import convert
 
 feet_label = sg.Text("Enter feet:")
 inches_label = sg.Text("Enter inches:")

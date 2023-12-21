@@ -3,5 +3,5 @@ def convert(feet, inches):
     return meters
 
 if __name__ == "__main__":
-    meters = convert(6,2)
+    meters = convert(5,2)
     print(meters)
