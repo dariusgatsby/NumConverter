@@ -4,7 +4,7 @@ from convert_function import convert
 sg.theme('Black')
 feet_label = sg.Text("Enter feet:")
 inches_label = sg.Text("Enter inches:")
-output = sg.Text('', key='output', text_color='black')
+output = sg.Text('', key='output', text_color='white')
 
 input_box1 = sg.InputText(key='feet')
 input_box2 = sg.InputText(key='inches')
